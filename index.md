@@ -1,4 +1,3 @@
-Welcome to the silly site I'm hacking together with absolutely zero coding experience. Yes that's right, I chose this theme since it was the only one with linkable headers and for absolutely no other reason whatsoever
 # Sup, I'm Zaptor
 I'm just some crazy individual with access to the internet somehow; don't expect too much from me. I've got myself a [GitHub account](https://github.com/ZaptorZap), which I guess should go without saying; look at the darn URL you're on, a [YouTube zone](https://www.youtube.com/channel/UCRLu8x5T594NtG09DmCFD-w), a [Twitch thingie](https://www.twitch.tv/zaptorzap), one of [those Steam profiles](https://steamcommunity.com/id/ZaptorZap), a Discord user(ZaptorZap#0405) alongside a [Discord server](https://discord.gg/vMkm8QHbUY); and a good ol E-Mail address(zaptorzap at gmail dot com).
 # Ever heard of that Tetris thing?
